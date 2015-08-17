@@ -25,6 +25,7 @@ void loop(){
 void setAsOutput( unsigned pin ){
   pinMode(pin, OUTPUT); 
 }
+
 void fullRotateRight( unsigned howLong ){
   ledLight(ledPin2);
   digitalWrite(motorPin2,HIGH);
