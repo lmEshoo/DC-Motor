@@ -1,6 +1,8 @@
 // Lini Mestar
 // Controlling DC motor
 
+
+
 unsigned motorPin1 = 10;
 unsigned motorPin2 = 11;
 unsigned ledPin1 = 2;
